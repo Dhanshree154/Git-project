@@ -1,2 +1,2 @@
 # Git-project
-This is my just for practice
+This is just for practice
